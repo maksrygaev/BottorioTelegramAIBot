@@ -1,2 +1,2 @@
-# BottorioTelegramAIBot
+# Bottorio
 This is my telegram bot written in Python. Bottorio uses the API model from Hugging Face to do something useful...
